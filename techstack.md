@@ -1,7 +1,8 @@
 <!--
---- Readme.md Snippet without images Start ---
+&lt;--- Readme.md Snippet without images Start ---&gt;
 ## Tech Stack
 dnafication/verdaccio is built on the following main stack:
+
 - [Jest](http://facebook.github.io/jest/) – Javascript Testing Framework
 - [Ruby](https://www.ruby-lang.org) – Languages
 - [Python](https://www.python.org) – Languages
@@ -46,11 +47,13 @@ dnafication/verdaccio is built on the following main stack:
 - [Docker](https://www.docker.com/) – Virtual Machine Platforms & Containers
 
 Full tech stack [here](/techstack.md)
---- Readme.md Snippet without images End ---
 
---- Readme.md Snippet with images Start ---
+&lt;--- Readme.md Snippet without images End ---&gt;
+
+&lt;--- Readme.md Snippet with images Start ---&gt;
 ## Tech Stack
 dnafication/verdaccio is built on the following main stack:
+
 - <img width='25' height='25' src='https://img.stackshare.io/service/830/jest.png' alt='Jest'/> [Jest](http://facebook.github.io/jest/) – Javascript Testing Framework
 - <img width='25' height='25' src='https://img.stackshare.io/service/989/ruby.png' alt='Ruby'/> [Ruby](https://www.ruby-lang.org) – Languages
 - <img width='25' height='25' src='https://img.stackshare.io/service/993/pUBY5pVj.png' alt='Python'/> [Python](https://www.python.org) – Languages
@@ -95,14 +98,15 @@ dnafication/verdaccio is built on the following main stack:
 - <img width='25' height='25' src='https://img.stackshare.io/service/586/n4u37v9t_400x400.png' alt='Docker'/> [Docker](https://www.docker.com/) – Virtual Machine Platforms & Containers
 
 Full tech stack [here](/techstack.md)
---- Readme.md Snippet with images End ---
+
+&lt;--- Readme.md Snippet with images End ---&gt;
 -->
 <div align="center">
 
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [dnafication/verdaccio](https://github.com/dnafication/verdaccio)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|217<br/>Tools used|11/09/23 <br/>Report generated|
+|220<br/>Tools used|01/04/24 <br/>Report generated|
 |------|------|
 </div>
 
@@ -551,9 +555,9 @@ Full tech stack [here](/techstack.md)
 </table>
 
 
-## <img src='https://img.stackshare.io/group.svg' /> Open source packages (166)</h2>
+## <img src='https://img.stackshare.io/group.svg' /> Open source packages (169)</h2>
 
-## <img width='24' height='24' src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png'/> npm (166)
+## <img width='24' height='24' src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png'/> npm (169)
 
 |NAME|VERSION|LAST UPDATED|LAST UPDATED BY|LICENSE|VULNERABILITIES|
 |:------|:------|:------|:------|:------|:------|
@@ -669,12 +673,14 @@ Full tech stack [here](/techstack.md)
 |[http-errors](https://www.npmjs.com/http-errors)|v1.6.3|03/10/21|Juan Picado |MIT|N/A|
 |[http-status-codes](https://www.npmjs.com/http-status-codes)|v2.2.0|04/27/23|renovate[bot] |MIT|N/A|
 |[https-proxy-agent](https://www.npmjs.com/https-proxy-agent)|v5.0.1|08/08/22|renovate[bot] |MIT|N/A|
+|[husky](https://www.npmjs.com/husky)|v0.14.3|03/10/21|Juan Picado |MIT|N/A|
 |[in-publish](https://www.npmjs.com/in-publish)|v2.0.1|10/07/23|Juan Picado |ISC|N/A|
 |[jest-environment-jsdom](https://www.npmjs.com/jest-environment-jsdom)|v29.7.0|10/07/23|Juan Picado |MIT|N/A|
 |[jest-junit](https://www.npmjs.com/jest-junit)|v16.0.0|10/07/23|Juan Picado |Apache-2.0|N/A|
 |[js-base64](https://www.npmjs.com/js-base64)|v3.7.5|07/31/23|renovate[bot] |BSD-3-Clause|N/A|
 |[js-yaml](https://www.npmjs.com/js-yaml)|v4.1.0|02/18/23|Juan Picado |MIT|N/A|
 |[jsonwebtoken](https://www.npmjs.com/jsonwebtoken)|v9.0.2|10/07/23|Juan Picado |MIT|N/A|
+|[lint-staged](https://www.npmjs.com/lint-staged)|v7.2.0|03/10/21|Juan Picado |MIT|N/A|
 |[lowdb](https://www.npmjs.com/lowdb)|v1.0.0|09/08/21|Juan Picado |MIT|N/A|
 |[lru-cache](https://www.npmjs.com/lru-cache)|v7.18.3|04/27/23|renovate[bot] |ISC|N/A|
 |[marked](https://www.npmjs.com/marked)|v4.3.0|06/03/23|renovate[bot] |MIT|N/A|
@@ -723,8 +729,9 @@ Full tech stack [here](/techstack.md)
 |[webpack-merge](https://www.npmjs.com/webpack-merge)|v5.8.0|07/26/23|renovate[bot] |MIT|N/A|
 |[whatwg-fetch](https://www.npmjs.com/whatwg-fetch)|v3.6.2|11/19/22|Juan Picado |MIT|N/A|
 |[yaml](https://www.npmjs.com/yaml)|v2.2.0|02/18/23|Juan Picado |ISC|[CVE-2023-2251](https://github.com/advisories/GHSA-f9xv-q969-pqx4) (High)|
+|[yup](https://www.npmjs.com/yup)|v0.32.11|03/03/20|Juan Picado @jotadeveloper |MIT|N/A|
 
 <br/>
 <div align='center'>
 
-Generated via [Stack File](https://github.com/apps/stack-file)
+Generated via [Stack File](https://github.com/marketplace/stack-file)
